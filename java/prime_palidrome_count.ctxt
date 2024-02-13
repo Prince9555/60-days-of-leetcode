@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=prime_palidrome_count
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=boolean\ isPalidrome(int)
+comment3.params=n
+comment3.target=boolean\ isPrime(int)
+numComments=4

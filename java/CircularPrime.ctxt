@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CircularPrime
+comment1.params=x
+comment1.target=void\ circularPrime(int)
+comment2.params=x
+comment2.target=int\ isPrime(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
