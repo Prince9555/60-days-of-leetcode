@@ -1,1 +1,1 @@
-# 100-days-of-leetcode
+# 60-days-of-leetcode
